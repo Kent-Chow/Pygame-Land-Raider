@@ -1,2 +1,4 @@
 Pygame-Land-Raider--
 ====================
+Land Raider is a single player, side scrolling game. The player controls a tank that is equipped with armour, and weapons. The tank can be controlled using the arrow keys, and the weapons can be controlled using the A, and D keys. The Space Bar can be used to fire weapons and the C key can be used to change the missile types. As the game begins, the player is set on a journey, while fending off aerial attacks from airplanes, and missiles from ground enemies. The goal of the game is to survive and reach the end of the level. The time it takes for the player to finish the game is determined by a set distance from start to finish. The distance slowly drops as they keep playing. The player loses if the tank runs out of health. It is not necessary to destroy any of the enemies, but points can be scored if done. The score is incremented if the player destroys enemies or negates incoming projectiles using their own weapons.
+  
